@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\elyzaveta\source\repos\fairyknight\fairyknight\fairy_knight.h(26): warning C4250: 'Fairy_Knight': inherits 'Hunter::Hunter::Attack' via dominance
+  c:\users\elyzaveta\source\repos\fairyknight\fairyknight\hunter.h(18): note: see declaration of 'Hunter::Attack'
+c:\users\elyzaveta\source\repos\fairyknight\fairyknight\fairy_knight.h(26): warning C4250: 'Fairy_Knight': inherits 'Hunter::Hunter::Run' via dominance
+  c:\users\elyzaveta\source\repos\fairyknight\fairyknight\hunter.h(19): note: see declaration of 'Hunter::Run'
+  FairyKnight.vcxproj -> C:\Users\Elyzaveta\source\repos\FairyKnight\Debug\FairyKnight.exe
